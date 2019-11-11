@@ -1,0 +1,81 @@
+@font-face{ 
+	font-family: 'Amagro';
+    src: url('fonts/amagro-bold-webfont.woff') format('woff'),
+        url('fonts/amagro-bold-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JuliusSansOne';
+    src: url('fonts/juliussansone-regular-webfont.woff') format('woff'),
+         url('fonts/juliussansone-regular-webfont.woff2') format('woff2');
+}
+
+html
+{
+    background-color: rgb(254, 227, 124);
+    height: 100%
+}
+
+body
+{
+    margin: 2%;
+    height: 100%
+}
+
+.logo
+{
+    float: right;
+    height: 150px;
+    width: auto;
+    position: absolute;
+    top: 0.05em; right: 0.05em;
+}
+
+h1
+{
+    font-family: 'Amagro';
+    border: 5px solid darkred;
+    padding: 0.5em;
+    margin-right: 5em;
+}
+
+h2
+{
+    text-align: center;
+}
+
+section
+{
+    display: block;
+    margin-top: 5em;
+    font-family: 'JuliusSansOne';
+}
+
+li
+{
+    border: 2px solid darkred;
+    display: inline-block;
+    height: 2em; width: 30%;
+    vertical-align: top;
+    margin: 0.1em;
+    padding: 1em;
+    position: relative;
+    text-align: center;
+}
+
+footer
+{
+    position: fixed;
+    bottom: 0; right: 1em;
+}
+
+.photo
+{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+    margin-top: 8em;
+    border: 5px solid darkred; 
+
+}
