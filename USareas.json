@@ -1,4 +1,5 @@
-{{"State": "AK","TotalArea": 665384,"LandArea": 570641,"WaterArea": 94743,"Density": "1.2863","Pop": 734002},
+{
+{"State": "AK","TotalArea": 665384,"LandArea": 570641,"WaterArea": 94743,"Density": "1.2863","Pop": 734002},
 {"State": "TX","TotalArea": 268596,"LandArea": 261232,"WaterArea": 7365,"Density": "112.8204","Pop": 29472300},
 {"State": "CA","TotalArea": 163696,"LandArea": 155779,"WaterArea": 7916,"Density": "256.3728","Pop": 39937500},
 {"State": "MT","TotalArea": 147040,"LandArea": 145546,"WaterArea": 1494,"Density": "7.4668","Pop": 1086760},
@@ -49,4 +50,5 @@
 {"State": "PR","TotalArea": 3515,"LandArea": 3459,"WaterArea": 56,"Density": "876.6002","Pop": 3032160},
 {"State": "DE","TotalArea": 2489,"LandArea": 1949,"WaterArea": 540,"Density": "504.3073","Pop": 982895},
 {"State": "RI","TotalArea": 1545,"LandArea": 1034,"WaterArea": 511,"Density": "1021.4313","Pop": 1056160},
-{"State": "DC","TotalArea": 68,"LandArea": 61,"WaterArea": 7,"Density": "11814.5410","Pop": 720687}}
+{"State": "DC","TotalArea": 68,"LandArea": 61,"WaterArea": 7,"Density": "11814.5410","Pop": 720687}
+}
